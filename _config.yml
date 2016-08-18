@@ -1,4 +1,3 @@
-layout_spectrum: 0.053309459472075105
 typography_spectrum: 0.23432915471494198
 color:
   brandStrength: 0.6954561502207071
@@ -6,9 +5,11 @@ color:
   saturation: 0.6303584729321301
   rhythmicContrast: 0.3225477165542543
   brandColors:
-    - '#000000'
-    - '#8AB1EC'
-    - '#FEFEFE'
-    - '#FA3026'
-    - '#534C53'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.053309459472075105
 name: Aeroklub Točná
+title: Pojďte s námi létat!
